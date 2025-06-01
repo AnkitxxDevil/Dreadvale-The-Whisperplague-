@@ -61,10 +61,10 @@ Unauthorized use, modification, or distribution is strictly prohibited.
 
 Stay connected for dev updates, announcements, and creepy behind-the-scenes!
 
-- 🌍 [Patreon](https://www.devilsyntax.com)
-- 🐦 [Twitter / X](https://twitter.com/devilsyntax)
-- 📸 [Instagram](https://instagram.com/devilsyntax)
-- 🎥 [YouTube](https://www.youtube.com/@devilsyntax)
+- 👑 [Patreon](patreon.com/DevilSyntax)
+- 🐦 [Twitter / X](https://x.com/DevilSyntax?t=kfWJxQ5mFf_JFK5-VNIeMQ&s=09)
+- 📸 [Instagram](https://www.instagram.com/devilsyntax?igsh=MTNrcnE5c3lxNTNlZw==)
+- 🎥 [YouTube](https://youtube.com/@devilsyntax?si=Eb4BjjH1pclEKw-7)
 - 🎮 [Itch.io](https://devilsyntax.itch.io)
 - 💬 [Discord](https://discord.gg/yourserver)
 
