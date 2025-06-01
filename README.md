@@ -68,7 +68,7 @@ If you are part of the DevilSyntax development team, please check the `DevLog.md
 - Instagram
 - YouTube
 - Twiter(X)
-- Twitch
+- Patreon
 - Discord
 
 Stay tuned for terrifying updates... 💀
