@@ -4,6 +4,7 @@
 **Engine:** Unreal Engine 5  
 **Platforms:** Windows, Android, iOS  
 **Genre:** Horror, Open World, Survival  
+
 ---
 
 ## 🕯️ About the Game
@@ -20,8 +21,7 @@ Scavenge, survive, and uncover the truth of the **Whisperplague**.
 
 You're alone—or so you think.
 
-> **Will you defy the dark… or surrender to it?**
-
+> **Will you defy the dark… or surrender to it?**  
 > 🕯️ *"Light fades. Dread remains."* 🔥🔥
 
 ---
@@ -32,9 +32,15 @@ You're alone—or so you think.
 - 🕰️ Real-time dynamic day-night cycle  
 - 👻 Ghosts, magical beasts & adaptive AI enemies  
 - 🧠 Psychological horror & environmental storytelling  
-- 🚙 Fully customizable modern vehicles 
+- 🚙 Fully customizable modern vehicles  
 - 🔫 Weapon crafting & loadout personalization  
 - 🛠️ Built in **Unreal Engine 5** with stunning visuals and performance
+
+---
+
+## 📸 Screenshots / Trailer
+
+_🖼️ Coming Soon_
 
 ---
 
@@ -48,11 +54,19 @@ Unauthorized use, modification, or distribution is strictly prohibited.
 
 > For business or licensing inquiries, contact:  
 📧 **devilsyntax.studio@gmail.com**
+
 ---
 
-## 📸 Screenshots / Trailer
+## 🌐 Follow Us
 
-_🖼️ Coming Soon_
+Stay connected for dev updates, announcements, and creepy behind-the-scenes!
+
+- 🌍 [Patreon](https://www.devilsyntax.com)
+- 🐦 [Twitter / X](https://twitter.com/devilsyntax)
+- 📸 [Instagram](https://instagram.com/devilsyntax)
+- 🎥 [YouTube](https://www.youtube.com/@devilsyntax)
+- 🎮 [Itch.io](https://devilsyntax.itch.io)
+- 💬 [Discord](https://discord.gg/yourserver)
 
 ---
 
@@ -60,15 +74,3 @@ _🖼️ Coming Soon_
 
 This repository is used for version control, feature planning, and private development.  
 If you are part of the DevilSyntax development team, please check the `DevLog.md` for task updates.
-
----
-
-## 🌐 Follow Us
-
-- Instagram
-- YouTube
-- Twiter(X)
-- Patreon
-- Discord
-
-Stay tuned for terrifying updates... 💀
