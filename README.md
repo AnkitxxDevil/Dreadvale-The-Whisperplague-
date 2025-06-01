@@ -62,7 +62,7 @@ Unauthorized use, modification, or distribution is strictly prohibited.
 Stay connected for dev updates, announcements, and creepy behind-the-scenes!
 
 - 👑 [Patreon](patreon.com/DevilSyntax)
-- 🐫 [Twitch]()
+- 🐫 [Twitch](https://www.twitch.tv/officialdevilsyntax?sr=a)
 - 🐦 [Twitter / X](https://x.com/DevilSyntax?t=kfWJxQ5mFf_JFK5-VNIeMQ&s=09)
 - 📸 [Instagram](https://www.instagram.com/devilsyntax?igsh=MTNrcnE5c3lxNTNlZw==)
 - 🎥 [YouTube](https://youtube.com/@devilsyntax?si=Eb4BjjH1pclEKw-7)
