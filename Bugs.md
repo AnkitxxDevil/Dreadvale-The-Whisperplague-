@@ -9,6 +9,6 @@
 | BUG-005 |Procedural gernation not work       | Under Review |
 | BUG-006 | Vehicle not rideable | Not yet fixed |
 | BUG-007 | Account is not created       | Under Review |
-| BUG-008 |         | Under Review |
+| BUG-008 | Too Dark in Some areas(Buildings,Tents and many more places)        | Under Review |
 
 ---
