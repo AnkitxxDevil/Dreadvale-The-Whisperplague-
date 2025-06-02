@@ -30,7 +30,7 @@
 - [ ] Inventory & crafting system
 - [ ] Full main menu UI & loading system
 - [x] Save/load system integration
-- [ ] Combat system (ranged/melee/spell weapons)
+- [x] Combat system (ranged/melee/spell weapons)
 - [x] Multiplayer/Co-op logic (experimental)
 
 ---
@@ -47,11 +47,11 @@
 ## 📌 Feature Backlog
 
 - [x] Dynamic weather (fog, rain, storms)
-- [ ] NPC survivor interactions
+- [x] NPC survivor interactions
 - [ ] Boss-level magical beasts
 - [ ] Underground dungeon generation
 - [ ] Voiceovers for Selene and Thorne
-- [ ] Lore diary pages scattered in the world
+- [x] Lore diary pages scattered in the world
 - [ ] Trailer-level cinematic intro scene
 
 ---
@@ -61,6 +61,7 @@
 - Procedural cliffs sometimes overlap vehicle spawn points
 - AI perception loses track in heavy fog zones
 - Player can glitch through rocks at certain night-time seed
+- Npc Overlap each other
 
 ---
 
