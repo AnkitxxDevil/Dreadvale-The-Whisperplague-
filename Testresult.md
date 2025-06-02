@@ -1,4 +1,4 @@
-# ✅ Test Results – Dreadvale: The Whisperplague
+# ✅ Test Phase 1 Results – Dreadvale: The Whisperplague
 
 **Build:** v0.1.3-dev  
 **Test Date:** 2025-06-02  
