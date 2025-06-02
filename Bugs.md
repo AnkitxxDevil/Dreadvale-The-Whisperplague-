@@ -8,5 +8,6 @@
 | BUG-004 | NPC is override each other       | Fixed |
 | BUG-005 |Procedural gernation not work       | Under Review |
 | BUG-006 | Vehicle not rideable | Not yet fixed |
+| BUG-007 | Account is not created       | Under Review |
 
 ---
