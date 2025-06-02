@@ -1,3 +1,11 @@
-All game models have been successfully created ✅ ✅.
+# 📓 DevLog – Dreadvale: The Whisperplague  
+**Project by:** DevilSyntax Studios  
+**Engine:** Unreal Engine 5  
+**Start Date:** [April 2025]  
+**Status:** In Development  
 
-Our game Test Phase 1 is Initiated🔥🔥.
+---
+
+## 🗓️ Development Timeline
+
+| Date       | Update Summary                              | Developer
