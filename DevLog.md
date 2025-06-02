@@ -16,6 +16,8 @@
 | 2025-05-15 | Player movement (Blueprint & C++) completed  | Ankit Sharma      |
 | 2025-05-25 | Custom vehicle system (base framework done)  | Ankit Sharma      |
 | 2025-06-02 | Initiated Phase 1 Test  | Ankit Sharma      |
+| 2025-06-02 | Complete Phase 1 Test  | Ankit Sharma      
+    |
 
 ---
 
