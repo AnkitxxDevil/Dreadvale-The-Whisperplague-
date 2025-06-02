@@ -29,9 +29,9 @@
 - [x] Player movement mechanics (Unreal Blueprint + C++)
 - [ ] Inventory & crafting system
 - [ ] Full main menu UI & loading system
-- [ ] Save/load system integration
+- [x] Save/load system integration
 - [ ] Combat system (ranged/melee/spell weapons)
-- [ ] Multiplayer/Co-op logic (experimental)
+- [x] Multiplayer/Co-op logic (experimental)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 📌 Feature Backlog
 
-- [ ] Dynamic weather (fog, rain, storms)
+- [x] Dynamic weather (fog, rain, storms)
 - [ ] NPC survivor interactions
 - [ ] Boss-level magical beasts
 - [ ] Underground dungeon generation
