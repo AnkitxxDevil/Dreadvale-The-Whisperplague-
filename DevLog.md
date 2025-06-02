@@ -15,6 +15,7 @@
 | 2025-05-10 | AI behavior tree (Wraith enemy) prototyped   | Ankit Sharma      |
 | 2025-05-15 | Player movement (Blueprint & C++) completed  | Ankit Sharma      |
 | 2025-05-25 | Custom vehicle system (base framework done)  | Ankit Sharma      |
+| 2025-06-02 | Initiated Phase 1 Test  | Ankit Sharma      |
 
 ---
 
@@ -65,7 +66,7 @@
 
 | Asset                     | Status       | Source / Notes             |
 |--------------------------|--------------|-----------------------------|
-| Player model             | In progress  | Custom sculpt (Blender)     |
+| Player model             | Done  | Custom sculpt (Blender)     |
 | Ghost enemy (Wraith)     | Done         | Unreal Marketplace + Custom anims |
 | Forest environment set   | Integrated   | Megascans + Modified        |
 | UI icons                 | Pending      | Internal design queue       |
