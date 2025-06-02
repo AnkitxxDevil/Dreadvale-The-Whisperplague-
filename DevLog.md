@@ -40,7 +40,7 @@
 | Version     | Notes & Feedback | Tester         |
 |-------------|------------------|----------------|
 | v0.1.0-dev  | Terrain glitches in night cycle lighting | Ankit Sharma |
-| v0.1.2-dev  | AI stuck on slopes in procedural zones    | Ankit Sharma |
+| v0.1.3-dev  | AI stuck on slopes in procedural zones    | Ankit Sharma |
 
 ---
 
