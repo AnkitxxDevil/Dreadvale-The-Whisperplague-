@@ -21,6 +21,8 @@
 | 2025-06-03 | UI design still pending we are working on Android or IOS optimization| Ankit Sharma      |
 | 2025-06-03 | Android or IOS optimization Done we are working on Inventory and UI design| Ankit Sharma      |
 | 2025-06-03 |Inventory Creation done Now working on UI Design | Ankit Sharma      |
+| 2025-06-03 |Initiate Test Phase 2| Ankit Sharma      |
+| 2025-06-03 |Done Test Phase 2| Ankit Sharma      |
 
 ---
 
