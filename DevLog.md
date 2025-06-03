@@ -54,7 +54,7 @@
 
 - [x] Dynamic weather (fog, rain, storms)
 - [x] NPC survivor interactions
-- [ ] Boss-level magical beasts
+- [x] Boss-level magical beasts
 - [x] Underground dungeon generation
 - [ ] Voiceovers for Selene and Thorne
 - [x] Lore diary pages scattered in the world
