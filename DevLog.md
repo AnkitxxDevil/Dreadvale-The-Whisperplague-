@@ -19,6 +19,8 @@
 | 2025-06-02 | Complete Phase 1 Test  | Ankit Sharma       |
 | 2025-06-02 | UI design in progress  | Ankit Sharma      |
 | 2025-06-03 | UI design still pending we are working on Android or IOS optimization| Ankit Sharma      |
+| 2025-06-03 | Android or IOS optimization Done we are working on Inventory and UI design| Ankit Sharma      |
+| 2025-06-03 |Inventory Creation done Now working on UI Design | Ankit Sharma      |
 
 ---
 
@@ -28,7 +30,7 @@
 - [x] Procedural world system (landscape generation prototype)
 - [x] Enemy AI system (adaptive ghost/wraith logic)
 - [x] Player movement mechanics (Unreal Blueprint + C++)
-- [ ] Inventory & crafting system
+- [x] Inventory & crafting system
 - [ ] Full main menu UI & loading system
 - [x] Save/load system integration
 - [x] Combat system (ranged/melee/spell weapons)
@@ -50,7 +52,7 @@
 - [x] Dynamic weather (fog, rain, storms)
 - [x] NPC survivor interactions
 - [ ] Boss-level magical beasts
-- [ ] Underground dungeon generation
+- [x] Underground dungeon generation
 - [ ] Voiceovers for Selene and Thorne
 - [x] Lore diary pages scattered in the world
 - [ ] Trailer-level cinematic intro scene
