@@ -18,6 +18,7 @@
 | 2025-06-02 | Initiated Phase 1 Test  | Ankit Sharma      |
 | 2025-06-02 | Complete Phase 1 Test  | Ankit Sharma       |
 | 2025-06-02 | UI design in progress  | Ankit Sharma      |
+| 2025-06-03 | UI design still pending we are working on Android or IOS optimization| Ankit Sharma      |
 
 ---
 
