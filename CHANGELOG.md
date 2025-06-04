@@ -5,6 +5,30 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.2.2-alpha] – 2025-06-04
+### Added
+- Weather system with rain and wind effects
+- Melee combo system (3-hit sequence with stagger)
+- Firearm targeting prototype with preliminary accuracy logic
+- Ghosts now react to flashlight exposure
+
+### Fixed
+- Ambient light flicker at dawn resolved
+- Player slope movement smoothened further
+- Ghost AI phase-through logic refined using improved nav mesh
+
+### Changed
+- Vehicle traction logic improved on default terrain types
+- Magical Beast AI partially optimized for roaming and attack flow
+
+### Known Issues
+- Vehicle still slides on sand-based terrain
+- Magical Beast animations stutter during attack sequences
+- Hitbox offset while sprint-firing with firearms
+- Weather particles clipping through interior meshes
+
+---
+
 ## [0.2.0-alpha] – 2025-06-03
 ### Added
 - Magical Beast enemy class with patrol and chase behavior
