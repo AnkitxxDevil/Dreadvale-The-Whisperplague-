@@ -122,3 +122,53 @@ Phase Two focused on AI behavior, terrain generation consistency, and early comb
 > _“Every shadow now watches back.”_
 
 ---
+## 🧪 Test Phase 3 – June 04, 2025
+
+**Build:** v0.2.2-alpha  
+**Tested By:** Ankit Sharma  
+**World Seed:** #9182-X  
+
+---
+
+### ✅ Systems Tested
+
+| Feature                          | Status       | Notes                                                                 |
+|----------------------------------|--------------|-----------------------------------------------------------------------|
+| Procedural Generation            | ✅ Optimized | Improved tile stitching, fewer LOD popping artifacts                 |
+| Enemy AI: Ghost (Path Sensing)   | ✅ Stable     | Adjusted navigation mesh fixed phasing logic                         |
+| Enemy AI: Magical Beast Tracking | ⚠️ Partial    | Occasional animation stutter on attack                               |
+| Day/Night Cycle                  | ✅ Polished   | Better ambient color gradation, dynamic fog improved                 |
+| Weather Effects (Rain)           | ✅ Implemented| Particle-based rain tested with wind variation                       |
+| Vehicle Handling                 | ⚠️ In Testing | Better traction, but still unstable during hard turns on slope       |
+| Melee Weapon Combo System        | ✅ New        | 3-hit combo tested, responsive with stagger logic                    |
+| Firearm Targeting System         | ⚠️ Delayed    | Input lag reduced, hitboxes need refinement                          |
+| Flashlight Logic                 | ✅ Fixed      | Ghosts now react to flashlight beam properly                         |
+
+---
+
+### 🐛 Bugs Identified
+
+| ID       | Description                                 | Status       |
+|----------|---------------------------------------------|--------------|
+| BUG-014  | Weather particles overlap in interior zones | Under Review |
+| BUG-015  | Vehicle slides sideways on sand terrain     | Known        |
+| BUG-016  | Magical beast gets stuck mid-attack         | Reproducible |
+| BUG-017  | Hitbox mismatch during sprint fire          | In Progress  |
+
+---
+
+### 📦 Artifacts Collected
+
+- SOON
+
+---
+
+### 🧠 Summary
+
+Phase Three integrated weather effects, combo-based melee, and refinements to both AI and terrain generation. Ghost enemies now properly interact with player light sources. Weather system now has wind + ambient SFX layers. Ranged combat needs tighter hit logic, and vehicle physics are being tuned on unstable surfaces like sand.
+
+> **Next Goal:** Add boss-tier enemy with cinematic intro, finalize weather audio layering, and polish ranged weapon accuracy.
+
+> _“It’s not the storm you see… it’s what rides within it.”_
+
+--
