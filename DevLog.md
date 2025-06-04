@@ -23,6 +23,7 @@
 | 2025-06-03 |Inventory Creation done Now working on UI Design | Ankit Sharma      |
 | 2025-06-03 |Initiate Test Phase 2| Ankit Sharma      |
 | 2025-06-03 |Done Test Phase 2| Ankit Sharma      |
+| 2025-06-04 |Initiate Last phase Test| Ankit Sharma      |
 
 ---
 
