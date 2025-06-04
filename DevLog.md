@@ -24,8 +24,8 @@
 | 2025-06-03 |Initiate Test Phase 2| Ankit Sharma      |
 | 2025-06-03 |Done Test Phase 2| Ankit Sharma      |
 | 2025-06-04 |Initiate Last phase Test| Ankit Sharma      |
-
----
+| 2025-06-04 |Done Last phase Test| Ankit Sharma      |
+| 2025-06-04 |Fixing bugs| Ankit Sharma      |
 
 ## 🚧 Current Milestones
 
