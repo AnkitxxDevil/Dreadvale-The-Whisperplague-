@@ -16,7 +16,7 @@
 | BUG-012  | Ghosts ignore flashlight in close range | In progress|
 | BUG-013  | player got stuck in car| Under Review |
 | BUG-014  | Weather particles overlap in interior zones | Under Review |
-| BUG-015  | Vehicle slides sideways on sand terrain     | Known        |
-| BUG-016  | Magical beast gets stuck mid-attack         | Reproducible |
+| BUG-015  | Vehicle slides sideways on sand terrain     | ✅ Fixed        |
+| BUG-016  | Magical beast gets stuck mid-attack         | ✅ Fixed |
 | BUG-017  | Hitbox mismatch during sprint fire          | In Progress  |
 ---
