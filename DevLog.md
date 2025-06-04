@@ -48,6 +48,7 @@
 | v0.1.0-dev  | Terrain glitches in night cycle lighting | Ankit Sharma |
 | v0.1.3-dev  | AI stuck on slopes in procedural zones    | Ankit Sharma |
 | v0.2.0-alpha  | Manual QA + Automated CLI Tests    | Ankit Sharma |
+| v0.2.2-alpha  | Weather system implementation     | Ankit Sharma |
 
 ---
 
