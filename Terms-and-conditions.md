@@ -72,7 +72,7 @@ These Terms are governed by the laws of India. Any legal disputes will be handle
 
 ## 10. Contact
 
-For legal concerns or questions about these Terms, contact: **[devilsyntax.studio@gmail.com](mailto:devilsyntax.studio@gmail.com)**
+For legal concerns or questions about these Terms, contact: **[contact@devilsyntaxstudio.org](mailto:contact@devilsyntaxstudio.org)**
 
 > *“Light fades. Dread remains.”*
 > — DevilSyntax Studios
