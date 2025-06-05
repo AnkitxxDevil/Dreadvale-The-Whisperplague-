@@ -66,7 +66,7 @@ Depending on your location, you may have rights regarding your data, including:
 * Request deletion of your data
 * Withdraw consent
 
-To exercise these rights, contact us at: **[devilsyntax.studio@gmail.com](mailto:devilsyntax.studio@gmail.com)**
+To exercise these rights, contact us at: **[support@devilsyntaxstudio.org](mailto:support@devilsyntaxstudio.org)**
 
 ---
 
