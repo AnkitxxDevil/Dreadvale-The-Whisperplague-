@@ -53,7 +53,7 @@ This project is licensed under a **proprietary license**.
 Unauthorized use, modification, or distribution is strictly prohibited.
 
 > For business or licensing inquiries, contact:  
-📧 **devilsyntax.studio@gmail.com**
+📧 **contact@devilsyntaxstudio.org**
 
 ---
 
