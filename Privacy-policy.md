@@ -79,7 +79,7 @@ We may update this Privacy Policy periodically. We will notify users of signific
 ---
 
 **Contact Us:**
-For questions or concerns, email us at: **[devilsyntax.studio@gmail.com](mailto:devilsyntax.studio@gmail.com)**
+For questions or concerns, email us at: **[contact@devilsyntaxstudio.org](mailto:contact@devilsyntaxstudio.org)**
 
 > *"Light fades. Dread remains."*
 > — DevilSyntax Studios
