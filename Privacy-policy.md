@@ -1,4 +1,4 @@
-# 📜 Privacy Policy for DevilSyntax Games
+# 📜 Privacy Policy for DevilSyntaxStudio Games
 
 *Last Updated: June 5, 2025*
 
