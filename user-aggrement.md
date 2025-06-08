@@ -60,7 +60,7 @@ This Agreement is governed by the laws of **India**, unless otherwise required b
 
 ## 👤 Contact & Support
 For questions regarding this agreement or account issues, contact us at:  
-📧 **officialdevilsyntax@gmail.com**  
+📧 **contact@devilsyntaxstudio.org**  
 🌐 [https://devilsyntax.github.io](https://devilsyntax.github.io)
 
 ---
