@@ -13,7 +13,7 @@
 | BUG-009  | Spectral AI stuck on small boulders     | ✅Fixed        |
 | BUG-010  | Vehicle flips when colliding at angles  | ✅Fixed |
 | BUG-011  | Fog shadow flickers at night            | ✅ Fixed      |
-| BUG-012  | Ghosts ignore flashlight in close range | In progress|
+| BUG-012  | Ghosts ignore flashlight in close range | ✅Fixed|
 | BUG-013  | player got stuck in car| Under Review |
 | BUG-014  | Weather particles overlap in interior zones | Under Review |
 | BUG-015  | Vehicle slides sideways on sand terrain     | ✅ Fixed        |
