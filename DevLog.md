@@ -26,7 +26,7 @@
 | 2025-06-04 |Initiate Last phase Test| Ankit Sharma      |
 | 2025-06-04 |Done Last phase Test| Ankit Sharma      |
 | 2025-06-04 |Fixing bugs| Ankit Sharma      |
-
+| 2025-06-04 |version has been changed to v0.2.2-alpha| Ankit Sharma      |
 ## 🚧 Current Milestones
 
 - [x] Game concept, name, and world theme defined (`Dreadvale: The Whisperplague`)
@@ -48,8 +48,8 @@
 | v0.1.0-dev  | Terrain glitches in night cycle lighting | Ankit Sharma |
 | v0.1.3-dev  | AI stuck on slopes in procedural zones    | Ankit Sharma |
 | v0.2.0-alpha  | Manual QA + Automated CLI Tests    | Ankit Sharma |
-| v0.2.2-alpha  | Weather system implementation     | Ankit Sharma |
-
+| v0.2.1-alpha  | Weather system implementation     | Ankit Sharma |
+| v0.2.2-alpha  | ranged combat system Added     | Ankit Sharma |
 ---
 
 ## 📌 Feature Backlog
