@@ -5,8 +5,9 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [0.2.2-alpha] – 2025-06-04
+## [0.2.2-alpha] – 2025-06-29
 ### Added
+- Ranged combat system 
 - Weather system with rain and wind effects
 - Melee combo system (3-hit sequence with stagger)
 - Firearm targeting prototype with preliminary accuracy logic
