@@ -4,9 +4,9 @@
 |------|---------------------------------------|-------------|
 | BUG-001 | AI gets stuck on cliff corners     | ✅Fixed       |
 | BUG-002 | Player can fall through stairs     | ✅Fixed       |
-| BUG-003 | Fog flickers during sunrise        | Not yet Fixed |
+| BUG-003 | Fog flickers during sunrise        | ✅Fixed |
 | BUG-004 | Magic not work       | ✅Fixed |
-| BUG-005 |Procedural gernation not work       | Under Review |
+| BUG-005 |Procedural gernation not work       | In progress|
 | BUG-006 | Vehicle not rideable | ✅Fixed |
 | BUG-007 | Account is not created       | Under Review |
 | BUG-008 | Too Dark in Some areas(Buildings,Tents and many more places)        | ✅Fixed |
